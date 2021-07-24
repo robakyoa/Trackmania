@@ -48,17 +48,17 @@ Automatic Minimum FPS = 30
 
 Maximum Fps = 400
 
-(Forward antialiasing = MSAA 2x)
+Forward antialiasing = MSAA 2x
 
-Deferred antialiasing = None
+(Deferred antialiasing = None)
 
 Texture filtering = Anisotropic 2x
 
-Reflections on vehicles = Low
+(Reflections on vehicles = Low)
 
-Reflections on water surface = Very low
+(Reflections on water surface = Very low)
 
-Other reflections = Disabled
+(Other reflections = Disabled)
 
 Bloom and lens flare = None
 
