@@ -22,7 +22,7 @@ Customize = Yes
 
 Preset = None
 
-Shader quality = High
+Shader quality = Low
 
 Shadows = Minimum
 
