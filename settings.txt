@@ -132,7 +132,7 @@ Brake = Taste 1 (× button)
 
 Steering (analog) = X-Achse (Left stick)
 
-Give up = Taste 9 (Options button)
+Give up = Taste 8 (Create button)
 
 Respawn = Taste 0 (□ button)
 
@@ -142,7 +142,7 @@ Respawn = Taste 0 (□ button)
 
 Show/Hide Ghost = Taste 7 (R2 button)
 
-Show/Hide Opponents = Taste 8 (Create button)
+Show/Hide Opponents = Taste 9 (Options button)
 
 Menu = Taste 12 (PS button)
 
