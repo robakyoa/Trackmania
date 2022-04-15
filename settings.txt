@@ -148,9 +148,9 @@ Menu = Taste 12 (PS button)
 
 Show/Hide Interface = Taste 2 (○ button)
 
-Camera 1 = Taste 3 (△ button)
+Camera 1 = Taste 4 (L1 button)
 
-Camera 2 = Taste 4 (L1 button)
+Camera 2 = Taste 3 (△ button)
 
 Camera 3 = Taste 6 (L2 button)
 
